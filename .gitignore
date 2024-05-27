@@ -6,3 +6,4 @@ crosstool-ng
 aesd-build
 .vscode/
 test.sh.log
+**/.ycm_extra_conf.py
